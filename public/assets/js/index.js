@@ -68,7 +68,7 @@ const renderActiveNote = () => {
 };
 
 const handleNoteSave = () => {
-  //debugger;
+  
   const newNote = {
     title: noteTitle.value,
     text: noteText.value,
@@ -84,7 +84,6 @@ const handleNoteSave = () => {
 const handleNoteDelete = (e) => {
   // Prevents the click listener for the list from being called when the button inside of it is clicked
   e.stopPropagation();
-debugger;
   const note = e.target;
   const noteId = JSON.parse(note.parentElement.getAttribute('data-note')).id;
 
@@ -93,7 +92,6 @@ debugger;
   }
 
   deleteNote(noteId).then(() => {
-    debugger;
     getAndRenderNotes();
     renderActiveNote();
   });
@@ -102,7 +100,7 @@ debugger;
 // Sets the activeNote and displays it
 const handleNoteView = (e) => {
   e.preventDefault();
-  //debugger;
+  
   activeNote = JSON.parse(e.target.parentElement.getAttribute('data-note'));
   renderActiveNote();
 };

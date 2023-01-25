@@ -26,7 +26,7 @@
   
   ## Screenshots
 
-![ScreenShots of Application in use.](./assets/images/snapshot.jpg)
+![ScreenShots of Application in use.](./public/assets/images/snapshot.jpg)
   
   ## Application Link
 
