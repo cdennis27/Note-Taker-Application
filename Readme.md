@@ -4,7 +4,7 @@
   
   ## Description
 
-  A notes database online that can be accessed by multiple devices at any place with internet connection, different users can add, modify or delete notes.
+  A notes application on the web, that can be accessed by multiple devices at any place with internet connection, different users can add, modify or delete notes.
 
   ## Table of Contents
 
@@ -26,19 +26,15 @@
   
   ## Screenshots
 
-![ScreenShots of Application in use.](./dist/assets/icons/snapshot.jpg)
+![ScreenShots of Application in use.](./assets/images/snapshot.jpg)
   
   ## Application Link
 
   https://note-taker-cdennis01.herokuapp.com/notes
 
-  ## Link to tutorial video how to install and use application
-
-  https://drive.google.com/file/d/1RlLdP6MMt-HC3ZMa846TSPPexdo_lFF_/view
-
   ## Link to Project Repository
 
-  https://github.com/cdennis27/Team-Profile-Generator
+  https://github.com/cdennis27/Note-Taker-Application
 
   ## Requirements
 
