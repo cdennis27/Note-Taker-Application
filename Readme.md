@@ -10,7 +10,6 @@
 
   **[Description](#Description)**<br>
   **[Installation](#Installation)**<br>
-  **[Link to demonstration Video](#Link-to-tutorial-video-how-to-install-and-use-application)**<br>
   **[Link to Repository](#Link-to-Project-Repository)**<br>
   **[Link to Application](#Application-Link)**<br>
   **[Requirements](#Requirements)**<br>
